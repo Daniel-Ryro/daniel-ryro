@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Castro</h1>
 <h3 align="center">A passionate Mobile developer from Brazil</h3>
 
-- 🔭 I’m currently working on [My BMW](My BMW)
+- 🔭 I’m currently working on BMW Group on My BMW APP
 
 - 💬 Ask me about **Flutter,Dart, Kotlin, Swift**
 
