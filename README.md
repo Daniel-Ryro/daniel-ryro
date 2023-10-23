@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on BMW Group on My BMW APP
 
-- 💬 Ask me about **Flutter,Dart, Kotlin, Swift**
+- 💬 Ask me about **Flutter, Dart, Kotlin, Swift**
 
 - 📫 How to reach me **castro.menezes321@gmail.com**
 
